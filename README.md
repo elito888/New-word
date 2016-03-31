@@ -1,14 +1,7 @@
-# New-word
-Hello world
-Направи и ангажират промени
+Here are just a few of the benefits for integrating JIRA and qTest:
 
-Кликнете на README.md файл.
-Кликнете на  икона молив в горния десен ъгъл на екрана на файл, за да редактирате.
-В редактора, напиши нещо за себе си.
-Напиши съобщение ангажират, че описва промените.
-Кликнете Предай промени бутон.
-
-1020020
-010101
-91991919
-91001010
+Seamlessly move requirements and defects from qTest into JIRA
+Get test coverage reports for JIRA issues
+Real-time bug status changes viewable against Test Run Executions
+Easily access a detailed traceability matrix report of requirements and test case associations
+Autofill test run results into JIRA issues. No syncing required!
